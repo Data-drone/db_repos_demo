@@ -1,1 +1,2 @@
-# db_repos_demo
+# Quick demo with Databricks repo feature
+
